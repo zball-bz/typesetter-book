@@ -1,0 +1,18 @@
+{
+  "files": ["index.tsm", "syntax.tsm", "math.tsm", "code.tsm", "figures.tsm", "example-hott.tsm", "example-huozi.tsm"],
+  "continue": ["heading", "figure", "table", "equation"],
+  "urls": { "hott-book": "https://homotopytypetheory.org/book/" },
+  "book": {
+    "title": "Typesetter 使用手册",
+    "subtitle": ".tsm 标记语言与排版",
+    "lang": "zh",
+    "status": {
+      "syntax": "published", "math": "published", "code": "published", "figures": "published",
+      "example-hott": "published", "example-huozi": "published"
+    },
+    "parts": [
+      { "title": "语言", "chapters": ["syntax", "math", "code", "figures"] },
+      { "title": "实例", "chapters": ["example-hott", "example-huozi"] }
+    ]
+  }
+}

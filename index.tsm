@@ -1,0 +1,16 @@
+#use("lib/book.mjs")
+#heading(1, "home", {role: "front"})[Typesetter 使用手册]
+
+Typesetter 是一个 TeX 级的网页排版引擎：Knuth–Plass 断行、中西混排、数学公式、代码高亮与分页打印，都在浏览器里完成。这本手册讲它的标记语言 `.tsm`——怎么写，排出来是什么样子。zball.io 的每一页都由它排出，这本书也不例外：章节的编号、跨章的引用、左侧的目录，都来自引擎。
+
+*语言*
+
+- #ref("ch-syntax", {form: "toc"})
+- #ref("ch-math", {form: "toc"})
+- #ref("ch-code", {form: "toc"})
+- #ref("ch-figures", {form: "toc"})
+
+*实例*
+
+- #ref("ch-hott", {form: "toc"})
+- #ref("ch-huozi", {form: "toc"})

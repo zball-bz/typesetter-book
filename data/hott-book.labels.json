@@ -1,0 +1,20 @@
+{"v":1,"doc":"hott-book","totals":{},"labels":[
+{"label":"cha-basics","class":"chapter","level":1,"number":[["chapter",[2]]],"title":"Homotopy type theory","anchor":"cha-basics"},
+{"label":"cha-category-theory","class":"chapter","level":1,"number":[["chapter",[9]]],"title":"Category theory","anchor":"cha-category-theory"},
+{"label":"cha-equivalences","class":"chapter","level":1,"number":[["chapter",[4]]],"title":"Equivalences","anchor":"cha-equivalences"},
+{"label":"cha-hits","class":"chapter","level":1,"number":[["chapter",[6]]],"title":"Higher inductive types","anchor":"cha-hits"},
+{"label":"cha-hlevels","class":"chapter","level":1,"number":[["chapter",[7]]],"title":"Homotopy n-types","anchor":"cha-hlevels"},
+{"label":"cha-homotopy","class":"chapter","level":1,"number":[["chapter",[8]]],"title":"Homotopy theory","anchor":"cha-homotopy"},
+{"label":"cha-logic","class":"chapter","level":1,"number":[["chapter",[3]]],"title":"Sets and logic","anchor":"cha-logic"},
+{"label":"cha-real-numbers","class":"chapter","level":1,"number":[["chapter",[11]]],"title":"Real numbers","anchor":"cha-real-numbers"},
+{"label":"cha-set-math","class":"chapter","level":1,"number":[["chapter",[10]]],"title":"Set theory","anchor":"cha-set-math"},
+{"label":"cha-typetheory","class":"chapter","level":1,"number":[["chapter",[1]]],"title":"Type theory","anchor":"cha-typetheory"},
+{"label":"part-foundations","class":"part","level":1,"number":[["part",[1]]],"title":"Foundations","anchor":"part-foundations"},
+{"label":"part-mathematics","class":"part","level":1,"number":[["part",[2]]],"title":"Mathematics","anchor":"part-mathematics"},
+{"label":"sec-bool-nat","class":"heading","level":2,"number":[["heading",[5,1]]],"title":"Introduction to inductive types","anchor":"sec-bool-nat"},
+{"label":"sec-compute-universe","class":"heading","level":2,"number":[["heading",[2,10]]],"title":"Universes and the univalence axiom","anchor":"sec-compute-universe"},
+{"label":"sec-generalizations","class":"heading","level":2,"number":[["heading",[5,7]]],"title":"Generalizations of inductive types","anchor":"sec-generalizations"},
+{"label":"sec-piw-pretopos","class":"heading","level":2,"number":[["heading",[10,1]]],"title":"The category of sets","anchor":"sec-piw-pretopos"},
+{"label":"sec-rezk","class":"heading","level":2,"number":[["heading",[9,9]]],"title":"The Rezk completion","anchor":"sec-rezk"},
+{"label":"sec-types-vs-sets","class":"heading","level":2,"number":[["heading",[1,1]]],"title":"Type theory versus set theory","anchor":"sec-types-vs-sets"}
+]}
