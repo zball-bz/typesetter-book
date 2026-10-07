@@ -227,4 +227,4 @@ Finally, recall that this book was written as a massively collaborative effort b
 
 ---
 
-_Source: "Homotopy Type Theory: Univalent Foundations of Mathematics", Introduction — github.com/HoTT/book, CC BY-SA 4.0. Converted to .tsm by tools/convert/tex2tsm.mjs to exercise the engine (math, citations, bibliography); cross-chapter references resolve to ?? on purpose. Report: docs/real-world-report.md._
+_Source: "Homotopy Type Theory: Univalent Foundations of Mathematics", Introduction — github.com/HoTT/book, CC BY-SA 4.0. Converted to .tsm by tools/convert/tex2tsm.mjs to exercise the engine (math, citations, bibliography). Its references to the rest of the HoTT book resolve through that book's manifest (data/hott-book.labels.json, the numbers of its parts, chapters and sections) and link to the book._
